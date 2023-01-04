@@ -1,5 +1,6 @@
 THERMOSTAT
 
+Projet universitaire réalisé dans le cadre du cours sur les structures de données
 
 Fonctionnalités
 
